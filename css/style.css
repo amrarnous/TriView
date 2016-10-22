@@ -1,0 +1,18 @@
+body {
+    height: 5000px;
+}
+nav .nav-wrapper {
+    background: #212121;
+}
+nav .brand-logo {
+    padding-left: 15px;
+}
+nav ul a:hover {
+    background: #f4511e;
+}
+header {
+    background: url(../img/header.jpg), rgba(0,0,0,0.5);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
